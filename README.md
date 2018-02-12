@@ -1,0 +1,2 @@
+# ev-bot
+Discord bot
